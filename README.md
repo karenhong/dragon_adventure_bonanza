@@ -1,5 +1,25 @@
 # Dragon Adventure Bonanza
 
+### Installation Instructions
+
+On Mac, install 3rd party libraries using Homebrew:
+
+`brew install pkg-config brew install glfw3 brew install sdl2 brew install sdl2_mixer brew install freetype
+brew install glm`
+
+For Linux users, please install glfw3, sdl2, sdl2 mixer, freetype, and glm using your package manager.
+
+### Building and running the Project
+
+In the main directory 
+
+`mkdir build`
+`cd build`
+`cmake ..`
+`make`
+
+Execute `./dab`
+
 #### Instructions for installing Freetype 
 
 Mac users please run:
