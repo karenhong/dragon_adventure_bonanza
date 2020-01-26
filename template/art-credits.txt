@@ -1,0 +1,41 @@
+forest assets:
+background: edermunizz: https://edermunizz.itch.io/free-pixel-art-forest
+tiles: aamatniekss: https://aamatniekss.itch.io/fantasy-jungle-pixel-art-tileset
+squirrel: ckroomy: https://ckroomy.itch.io/oh-nuts
+
+Cave assets:
+background: adman32: https://pixelation.org/index.php?PHPSESSID=8qukdpngdru8ch4tirjr5a7n85&topic=15211.msg139572#msg139572
+torch: unknown
+bat: unknown: https://imgur.com/rn1zR0w
+tiles: ACASAS: https://gameartpartners.com/vendor-all-products/?ID=1956
+spirits: Kiki Hsieh
+shooting fire: snapbackscz: https://giphy.com/stickers/lp8JndnFvTMndTWYWs
+
+snow mountain assets:
+background: vnitti: https://vnitti.itch.io/glacial-mountains-parallax-background
+tiles: NotPhoenix: https://notphoenix.itch.io/snowyfrosty-tileset
+tiles: Grumble: http://supertux.lethargik.org/wiki/File:Supertux-slopes.png
+tiles: GameArtForge: https://opengameart.org/content/blocks-set-01
+tiles: Kenney: https://kenney.nl/assets/jumper-pack
+
+Dragon:
+Dawsonator: https://aminoapps.com/c/pixel-art/page/blog/dragon-gif/PJ3Z_X81FmubXBa7KqMj6lxzj8M2axP4pb
+
+Night sky assets:
+boss dragon: zedotagger: https://www.deviantart.com/zedotagger/art/Monster-Hunter-Rathian-592854097
+sibling dragon: unknown
+
+Projectiles:
+player fireball: http://pixelartmaker.com/art/f59eaa826d4e49f
+boss fireball: http://pixelartmaker.com/art/058ce513d186466
+
+Signs:
+signs: non157 pixel art  https://www.shutterstock.com/g/non157?studio=1
+
+Music/SFX: 
+Chipoogy: https://m.soundcloud.com/chipoogy
+
+Fonts:
+Kenney https://kenney.nl/assets/kenney-fonts
+Our Quinny
+Pixelated
